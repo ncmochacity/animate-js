@@ -23,7 +23,7 @@ $(function(){
     top:'0'
   },'linear')
   .animate({
-    top:'180'
+    top:'90'
   },'linear')
   .animate({
     left:'-300'
